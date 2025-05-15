@@ -1,0 +1,22 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node modules (if any JS/TS projects are added later)
+node_modules/
+
+# Python virtual environment (if any Python projects are added later)
+venv/
+__pycache__/
+*.pyc
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*~
